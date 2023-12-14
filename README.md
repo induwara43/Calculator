@@ -1,4 +1,4 @@
-# Calculator App
+# Calculator App 
 
 A simple Java Swing-based calculator application.
 This calculator application was created as an assignment for OOP Course module. The goal of the assignment was to implement a basic calculator using Java Swing.
